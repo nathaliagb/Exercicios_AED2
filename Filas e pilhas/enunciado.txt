@@ -1,0 +1,2 @@
+Implemente uma função para ordenar uma fila de valores usando apenas duas pilhas como recurso de memória. 
+Utilize diretamente as funções dos TADs Pilha e Fila, em qualquer representação física.

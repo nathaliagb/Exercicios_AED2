@@ -1,0 +1,6 @@
+Implemente todas as operações do TAD Pilha tanto por encadeamento quanto por contiguidade física. 
+Organize seu código em arquivos separados para cada TAD. 
+Implemente um programa que importe as classes para testar todos os métodos.
+Implemente uma função para testar se duas pilhas são iguais. 
+Utilize apenas as funções do TAD implementadas no exercício anterior. 
+Deve funcionar da mesma forma para qualquer das representações (contiguidade ou encadeamento).
